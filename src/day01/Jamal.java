@@ -1,8 +1,7 @@
 package day01;
 
-public class Omer {
-
+public class Jamal {
     public static void main(String[] args) {
-        System.out.println("Hello Group2");
+        System.out.println("Hi group EU2!");
     }
 }
